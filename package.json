@@ -1,0 +1,19 @@
+{
+  "name": "anansi-tags",
+  "version": "1.0.0",
+  "description": "ANSI String Creation via BBCode-like Tags",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3digitdev/anansi-tags-js.git"
+  },
+  "author": "anansi@3digit.dev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/3digitdev/anansi-tags-js/issues"
+  },
+  "homepage": "https://github.com/3digitdev/anansi-tags-js#readme"
+}
